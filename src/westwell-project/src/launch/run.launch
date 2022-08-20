@@ -1,0 +1,4 @@
+<launch>
+    <node pkg="test" name = "first_node" type = "firstnode" output="screen" />
+    <node pkg="test" name = "second_node" type = "secondnode" output="screen" /> 
+</launch>
